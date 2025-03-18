@@ -21,4 +21,4 @@
 
 ## 🌍 Live Demo  
 
-🚀 **Try it out:** [Add Live Link Here]  
+🚀 **Try it out:** [https://data-sweeper-app-by-sowaiba-naz.streamlit.app/]  
